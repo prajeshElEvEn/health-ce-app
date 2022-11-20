@@ -2,6 +2,8 @@
 
 ![Screenshot from 2022-11-20 21-58-20](https://user-images.githubusercontent.com/78909117/202913853-3395fcb5-8029-4cea-a144-4d1427f5c5b4.png)
 
+[Download Here](https://github.com/prajeshElEvEn/health-ce-app/releases/tag/v0.1.0)
+
 ## What it does
 
 To overcome the problem of lack of knowledge and resources we have created a platform connecting the local NGOs and government where you can ask for basic health care facilities like blood donation, medicines, and oxygen cylinders.
