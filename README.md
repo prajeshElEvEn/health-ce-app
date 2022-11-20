@@ -23,6 +23,34 @@ But that's not the only problem faced, the major problem is that people don't ha
 
 ![Screenshot from 2022-11-20 21-58-47](https://user-images.githubusercontent.com/78909117/202913946-8e73901c-23c7-4140-bb6c-bb41674b9f7c.png)
 
+## Resources
+
+- [expo](https://docs.expo.dev/)
+- [react-native](https://reactnative.dev/docs/environment-setup)
+- [react-native-navigation](https://reactnavigation.org/docs/getting-started/)
+- [react-native-icons](https://icons.expo.fyi/)
+
+## Installation
+
+- Clone the repository
+
+```bash
+git clone https://github.com/prajeshElEvEn/health-ce-app.git
+cd health-ce-app
+```
+
+- Install expo-cli
+
+```bash
+npm i -g expo-cli
+```
+
+- Install dependencies
+
+```bash
+npm i
+```
+
 ## Authors
 
 - [@ayush](https://github.com/Ayushsingh07)
